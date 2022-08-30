@@ -1,2 +1,2 @@
-myvenv
+flask
 pytest
